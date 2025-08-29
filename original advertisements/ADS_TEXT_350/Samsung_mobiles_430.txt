@@ -1,0 +1,56 @@
+Galaxy S20
+
+Product Specifications
+
+AP
+- 7nm 64-bit Octa-core processor (Max. 2.7GHz + 2.5GHz + 2.0GHz)
+- 7nm 64-bit Octa-core processor (Max. 2.8GHz + 2.4GHz +1.8GHz)
+
+Memory
+- 5G; 12GB RAM (LPDDR5), 128GB
+- LTE; 8GB RAM (LPDDR5), 128GB + MicroSD Slot (up to 1TB microSD)
+
+Network
+- 5G; 5G Non-Standalone (NSA); 5G Standalone (SA), Sub6; Dynamic Spectrum Sharing (DSS)
+- LTE; Enhanced 4x4 MIMO, up to 7CA, LAA; LTE Cat. 20, 2.0Gbps Download; 200Mbps Upload
+
+Payment
+- NFC, MST
+
+Sensors
+- Ultrasonic Fingerprint sensor, Accelerometer, Barometer, Gyro sensor, Geomagnetic sensor, Hall sensor, Proximity sensor, RGB Light sensor
+
+Rear Camera
+- Ultra Wide: 12MP, F2.2 (120°)
+- Wide-angle: 12MP', Super Speed Dual Pixel AF, OIS, F1.8 (79°)
+- Telephoto: 64MP', PDAF, OIS, F2.0 (76°)
+
+Front Camera
+- Selfie: 10MP, Dual Pixel AF, F2.2 (80°)
+
+Body
+- 69.1 x 151.7 x 7.9 mm, 163g
+
+Display
+- 6.2-inch Quad HD+ Dynamic AMOLED 2X
+- Infinity-O Display (3200x1440)
+- HDR10+ certified
+- 120Hz display support
+
+Battery
+- 4,000mAh (typical)
+- Improved wireless charging speeds with
+- Fast Wireless Charging 2.0
+- Fast Charging compatible on wired and wireless
+- Wireless PowerShare
+
+Authentication
+- Lock Type: Pattern, PIN, Password
+- Biometric Lock Type: Fingerprint sensor, Face recognition
+
+Colors
+- Cloud Pink
+- Cloud Blue
+- Cosmic Grey
+
+SAMSUNG
